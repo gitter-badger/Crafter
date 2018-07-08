@@ -1,0 +1,9 @@
+{
+  "name": "crafter",
+  "version": "0.1.0",
+  "description": "Yet another Twitch client for Minecraft. Manage and install your Minecraft mods in one place.",
+  "main": "app/main.js",
+  "repository": "https://github.com/ZeroAurora/Crafter.git",
+  "author": "ZeroAurora",
+  "license": "GPL-3.0"
+}
